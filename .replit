@@ -1,0 +1,3 @@
+language = "python"
+run = "bash launch.sh"
+onBoot="bash -c 'chmod u+x *.sh *.py'"
